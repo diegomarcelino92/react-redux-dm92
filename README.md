@@ -2,30 +2,11 @@
 
 This is a react template using React, Redux, TS and Duck pattern.
 
-## Getting started.
-
-- Install modules:
+## Getting started
 
 ```
-npm install
+yarn create react-app --template react-redux-ducks-diego
 or
-yarn install
-```
+npx create-reactp-app --templatereact-redux-ducks-diego
 
-- Run development:
-
-```
-npm run dev
-or
-yarn dev
-```
-
-[OPEN](http://localhost:3000)
-
-- Generate Build for production:
-
-```
-npm run build
-or
-yarn build
 ```
