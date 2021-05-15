@@ -1,0 +1,52 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "lib": [
+      "es6",
+      "dom"
+    ],
+    "rootDir": "src",
+    "target": "es5",
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "noImplicitReturns": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "baseUrl": ".",
+    "paths": {
+      "@components/*": [
+        "./src/components/*"
+      ],
+      "@prodivers/*": [
+        "./src/providers/*"
+      ],
+      "@config/*": [
+        "./src/configurations/*"
+      ],
+      "@reducers/*": [
+        "./src/redux/reducers/*"
+      ],
+      "@sagas/*": [
+        "./src/redux/sagas/*"
+      ],
+      "@styles/*": [
+        "./src/common-styles/*"
+      ],
+      "@store": [
+        "./src/redux/store"
+      ],
+    },
+    "typeRoots": [
+      "./node_modules/@types",
+      "./src/@types",
+      "./src/components/**/*"
+    ],
+  },
+  "include": [
+    "./src"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
