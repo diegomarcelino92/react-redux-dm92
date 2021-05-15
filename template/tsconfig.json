@@ -1,4 +1,5 @@
 {
+  "extends": "./tsconfig.paths.json",
   "compilerOptions": {
     "jsx": "react",
     "lib": [
@@ -13,30 +14,6 @@
     "noImplicitReturns": true,
     "noImplicitAny": true,
     "strictNullChecks": true,
-    "baseUrl": ".",
-    "paths": {
-      "@components/*": [
-        "./src/components/*"
-      ],
-      "@prodivers/*": [
-        "./src/providers/*"
-      ],
-      "@config/*": [
-        "./src/configurations/*"
-      ],
-      "@reducers/*": [
-        "./src/redux/reducers/*"
-      ],
-      "@sagas/*": [
-        "./src/redux/sagas/*"
-      ],
-      "@styles/*": [
-        "./src/common-styles/*"
-      ],
-      "@store": [
-        "./src/redux/store"
-      ],
-    },
     "typeRoots": [
       "./node_modules/@types",
       "./src/@types",
