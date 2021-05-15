@@ -1,10 +1,10 @@
 # React, Redux, Duck pattern and TS.
 
-This is a react template using Redux, TS and Duck pattern.
+This is a react template using React, Redux, TS and Duck pattern.
 
 ## Getting started.
 
-- Install modlues:
+- Install modules:
 
 ```
 npm install
@@ -22,7 +22,7 @@ yarn dev
 
 [OPEN](http://localhost:3000)
 
-- Generate Build for production;
+- Generate Build for production:
 
 ```
 npm run build
