@@ -1,8 +1,11 @@
 {
-  "name": "cra-template-react-redux-ducks-diego",
-  "version": "1.0.4",
+  "name": "cra-template-react-redux-dm92",
+  "version": "1.0.0",
   "keywords": [
     "react",
+    "redux",
+    "duck",
+    "immutable",
     "create-react-app",
     "template"
   ],
