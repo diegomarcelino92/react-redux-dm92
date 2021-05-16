@@ -15,9 +15,9 @@ yarn install
 - Run development:
 
 ```
-npm run dev
+npm run start
 or
-yarn dev
+yarn start
 ```
 
 [OPEN](http://localhost:3000)
