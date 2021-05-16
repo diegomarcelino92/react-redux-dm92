@@ -20,5 +20,6 @@ export const Container = styled.div`
 export const Avatar = styled.img`
   width: 80px;
   height: 80px;
-  border-radius: 50px;
+  border-radius: 50%;
+  margin-top: 50px;
 `;
