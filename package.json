@@ -12,15 +12,15 @@
   "description": "The base template for react and redux.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/diegomarcelino92/react-redux-ducks-diego",
-    "directory": "react-redux-ducks-diego"
+    "url": "https://github.com/diegomarcelino92/react-redux-dm92",
+    "directory": "react-redux-dm92"
   },
   "license": "MIT",
   "engines": {
     "node": ">=10"
   },
   "bugs": {
-    "url": "https://github.com/diegomarcelino92/react-redux-ducks-diego/issues"
+    "url": "https://github.com/diegomarcelino92/react-redux-dm92/issues"
   },
   "files": [
     "template",
