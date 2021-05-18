@@ -63,7 +63,7 @@ const ComponentB: React.FC<ComponentBProps> = ({
       </p>
 
       <button
-        onClick={() => addComponent({ label: 'OTHER-COMPONENT' })}
+        onClick={() => addComponent({ label: 'OTHER_COMPONENT' })}
         disabled={loading}
       >
         ADD NEW

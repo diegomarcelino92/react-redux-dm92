@@ -21,11 +21,9 @@ export const FADE_IN_OUT = keyframes`
 
 export const ROTATE = keyframes`
   from {
-
     transform: rotate(0deg);
   }
   to {
-   
     transform: rotate(360deg);
   }
 }
