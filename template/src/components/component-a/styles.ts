@@ -7,6 +7,6 @@ export const Container = styled.div`
   border-radius: 5px;
   border: 2px solid #777777;
   padding: 20px;
-  margin: 10px 0;
+  margin: 10px;
   animation: 1s ${UP_FADE};
 `;
