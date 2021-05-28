@@ -5,8 +5,8 @@ This is a react template using React, Redux, TS and Duck pattern.
 ## Getting started
 
 ```
-yarn create react-app --template react-redux-ducks-diego
+yarn create react-app --template react-redux-dm92
 or
-npx create-reactp-app --templatereact-redux-ducks-diego
+npx create-react-app --template react-redux-dm92
 
 ```
