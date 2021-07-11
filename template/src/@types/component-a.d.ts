@@ -1,3 +1,0 @@
-interface ComponentAProps {
-  label: string;
-}

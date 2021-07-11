@@ -2,27 +2,14 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@components/*": [
-        "./src/components/*"
-      ],
-      "@prodivers/*": [
-        "./src/providers/*"
-      ],
-      "@config/*": [
-        "./src/configurations/*"
-      ],
-      "@reducers/*": [
-        "./src/redux/reducers/*"
-      ],
-      "@sagas/*": [
-        "./src/redux/sagas/*"
-      ],
-      "@styles/*": [
-        "./src/common-styles/*"
-      ],
-      "@store": [
-        "./src/redux/store"
-      ],
+      "@components/*": ["./src/components/*"],
+      "@prodivers/*": ["./src/providers/*"],
+      "@config/*": ["./src/configurations/*"],
+      "@reducers/*": ["./src/redux/reducers/*"],
+      "@sagas/*": ["./src/redux/sagas/*"],
+      "@styles/*": ["./src/common-styles/*"],
+      "@store": ["./src/redux/store"],
+      "@test": ["./src/test-helpers"]
     }
   }
 }

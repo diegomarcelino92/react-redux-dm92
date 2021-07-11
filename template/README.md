@@ -1,6 +1,7 @@
 # React, Redux, Duck pattern and TS.
 
-This is a react template using React, Redux, TS and Duck pattern.
+This is a react template using React, Redux, TS and Duck pattern,
+add your username GitHub and show a magic.
 
 ## Getting started.
 

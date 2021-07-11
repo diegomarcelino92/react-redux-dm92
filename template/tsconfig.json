@@ -2,28 +2,16 @@
   "extends": "./tsconfig.paths.json",
   "compilerOptions": {
     "jsx": "react",
-    "lib": [
-      "es6",
-      "dom"
-    ],
+    "lib": ["ESNext", "DOM"],
     "rootDir": "src",
-    "target": "es5",
-    "sourceMap": true,
     "moduleResolution": "node",
-    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
     "noImplicitReturns": true,
     "noImplicitAny": true,
     "strictNullChecks": true,
-    "typeRoots": [
-      "./node_modules/@types",
-      "./src/@types",
-      "./src/components/**/*"
-    ],
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "types": ["jest", "@types/testing-library__jest-dom"]
   },
-  "include": [
-    "./src"
-  ],
-  "exclude": [
-    "node_modules"
-  ]
+  "include": ["./src"]
 }
