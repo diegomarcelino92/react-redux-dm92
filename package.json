@@ -1,12 +1,14 @@
 {
   "name": "cra-template-react-redux-dm92",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "keywords": [
     "react",
     "redux",
     "duck",
     "ducks",
     "test",
+    "testing library",
+    "typescript",
     "immutable",
     "create-react-app",
     "template"
