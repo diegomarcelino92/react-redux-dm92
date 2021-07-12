@@ -8,8 +8,7 @@
       "@reducers/*": ["./src/redux/reducers/*"],
       "@sagas/*": ["./src/redux/sagas/*"],
       "@styles/*": ["./src/common-styles/*"],
-      "@store": ["./src/redux/store"],
-      "@test": ["./src/test-helpers"]
+      "@store": ["./src/redux/store"]
     }
   }
 }
