@@ -23,6 +23,14 @@ yarn start
 
 [OPEN](http://localhost:3000)
 
+- Run tests:
+
+```
+npm run test
+or
+yarn test
+```
+
 - Generate Build for production:
 
 ```
